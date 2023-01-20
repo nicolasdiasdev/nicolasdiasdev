@@ -4,7 +4,7 @@
   
 
 
-- 🔭 No momento estou me desenvolvendo para ser FullStack Developer.
+- 🔭 No momento estou me desenvolvendo para ser Front-End Developer.
 - 👨‍💻 Estou estudando HTML, CSS e JavaScript.
 - 👯 A procura de novos desafios.
 
